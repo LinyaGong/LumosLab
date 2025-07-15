@@ -1,5 +1,5 @@
 # Site settings
-title: PHOTORAMA
+title: LUMOSLAB
 email: ""
 description: "Photo Journal"
 url: "https://LinyaGong.github.io"
@@ -15,7 +15,7 @@ share: true
 
 # Owner/author information
 owner:
-  name:   photorama
+  name:   LUMOSLAB
   avatar: avatar.png
   favicon: favicon.ico
   info: photography website template

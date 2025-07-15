@@ -1,11 +1,11 @@
 p h o t o r a m a 
 ====================
 
-![photorama](https://raw.githubusercontent.com/sunbliss/photorama/gh-pages/photorama_thumb.gif)
+![LUMOSLAB](https://raw.githubusercontent.com/sunbliss/LUMOSLAB/gh-pages/LUMOSLAB_thumb.gif)
 
 ----------
 
----> [DEMO](https://sunbliss.github.io/photorama/ "DEMO")  <---
+---> [DEMO](https://sunbliss.github.io/LUMOSLAB/ "DEMO")  <---
 
 ----------
 
@@ -22,7 +22,7 @@ It uses [Clean Blog](https://github.com/BlackrockDigital/startbootstrap-clean-bl
 
 ### Version 2.2 (4/23/2018)
 
-<a href="https://github.com/sunbliss/photorama/wiki/How-to-get-SSL-on-Jekyll%3F"> How to get SSL Certificate (Https) For Jekyll</a>
+<a href="https://github.com/sunbliss/LUMOSLAB/wiki/How-to-get-SSL-on-Jekyll%3F"> How to get SSL Certificate (Https) For Jekyll</a>
 
 ### Version 2.1 (3/22/2017)
 
@@ -94,8 +94,8 @@ Usage
 
 ###Quick Start
 
-1. [Fork this repository](https://github.com/sunbliss/photorama/fork) to get started. 
-2. Go to `https://github.com/yourusername/photorama/settings`
+1. [Fork this repository](https://github.com/sunbliss/LUMOSLAB/fork) to get started. 
+2. Go to `https://github.com/yourusername/LUMOSLAB/settings`
 3. Rename the repository to your new project, e.g. *myphotoblog*
 2. Create a new branch called `gh-pages` in your repository. 
 3. Go to the branches directory at `https://github.com/yourusername/repositoryname/branches` and *change* **default branch** to **gh-pages**.
@@ -142,7 +142,7 @@ All the credits and the helpers can be found at **ABOUT** page.
 
 ----------
 
-Read <a href="https://sunbliss.github.io/photorama/journal/images-size-for-better-performance/">**this**</a> post if you want to ensure your website always loads fast.
+Read <a href="https://sunbliss.github.io/LUMOSLAB/journal/images-size-for-better-performance/">**this**</a> post if you want to ensure your website always loads fast.
 
 
 ----------
