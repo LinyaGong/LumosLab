@@ -2,7 +2,7 @@
 title: PHOTORAMA
 email: ""
 description: "Photo Journal"
-url: "https://sunbliss.github.io"
+url: "https://LinyaGong.github.io"
 baseurl: "/photorama"
 facebook_username: ""
 twitter_username: ""
@@ -33,9 +33,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://sunbliss.github.io/photorama/gallery/"  
-  - JOURNAL: "https://sunbliss.github.io/photorama/journal/"
-  - ABOUT: "https://sunbliss.github.io/photorama/about/"
+  - GALLERY: "https://LinyaGong.github.io/LumosLab/gallery/"  
+  - JOURNAL: "https://LinyaGong.github.io/LumosLab/journal/"
+  - ABOUT: "https://LinyaGong.github.io/LumosLab/about/"
 
 # All translation keys
 translations:
